@@ -1,0 +1,9 @@
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
+G:\Рома\Учеба web-проектирование\C# основы\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
